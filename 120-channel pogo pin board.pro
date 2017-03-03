@@ -1,14 +1,9 @@
-update=11/18/2016 4:57:42 PM
+update=3/1/2017 6:37:09 AM
 last_client=kicad
 [general]
 version=1
 RootSch=minibox.sch
 BoardNm=minibox.brd
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
 [pcbnew]
 version=1
 LastNetListRead=3x50 pin IDC to pogo pins.net
@@ -28,19 +23,6 @@ SolderMaskMinWidth=0.000000000000
 DrawSegmentWidth=0.381000000000
 BoardOutlineThickness=0.381000000000
 ModuleOutlineThickness=0.304800000000
-[pcbnew/libraries]
-LibDir=library
-LibName1=sockets
-LibName2=connect
-LibName3=discret
-LibName4=pin_array
-LibName5=divers
-LibName6=libcms
-LibName7=display
-LibName8=valves
-LibName9=led
-LibName10=dip_sockets
-LibName11=wheelerlab
 [eeschema]
 version=1
 LibDir=library
@@ -86,3 +68,6 @@ NetFmtName=
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
+[cvpcb]
+version=1
+NetIExt=net
