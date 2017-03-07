@@ -317,125 +317,125 @@ Text GLabel 8350 2900 0    60   Input ~ 0
 CH118
 Text GLabel 9250 2900 2    60   Input ~ 0
 CH119
-Text GLabel 2650 6000 2    60   Input ~ 0
-CH0
-Text GLabel 2150 6000 0    60   Input ~ 0
-CH1
-Text GLabel 1450 6000 2    60   Input ~ 0
-CH2
 Text GLabel 950  6000 0    60   Input ~ 0
+CH0
+Text GLabel 1450 6000 2    60   Input ~ 0
+CH1
+Text GLabel 2150 6000 0    60   Input ~ 0
+CH2
+Text GLabel 2650 6000 2    60   Input ~ 0
 CH3
-Text GLabel 2650 6100 2    60   Input ~ 0
-CH4
-Text GLabel 2150 6100 0    60   Input ~ 0
-CH5
-Text GLabel 1450 6100 2    60   Input ~ 0
-CH6
 Text GLabel 950  6100 0    60   Input ~ 0
+CH4
+Text GLabel 1450 6100 2    60   Input ~ 0
+CH5
+Text GLabel 2150 6100 0    60   Input ~ 0
+CH6
+Text GLabel 2650 6100 2    60   Input ~ 0
 CH7
-Text GLabel 2650 6200 2    60   Input ~ 0
-CH8
-Text GLabel 2150 6200 0    60   Input ~ 0
-CH9
-Text GLabel 1450 6200 2    60   Input ~ 0
-CH10
 Text GLabel 950  6200 0    60   Input ~ 0
+CH8
+Text GLabel 1450 6200 2    60   Input ~ 0
+CH9
+Text GLabel 2150 6200 0    60   Input ~ 0
+CH10
+Text GLabel 2650 6200 2    60   Input ~ 0
 CH11
-Text GLabel 2650 6300 2    60   Input ~ 0
-CH12
-Text GLabel 2150 6300 0    60   Input ~ 0
-CH13
-Text GLabel 1450 6300 2    60   Input ~ 0
-CH14
 Text GLabel 950  6300 0    60   Input ~ 0
+CH12
+Text GLabel 1450 6300 2    60   Input ~ 0
+CH13
+Text GLabel 2150 6300 0    60   Input ~ 0
+CH14
+Text GLabel 2650 6300 2    60   Input ~ 0
 CH15
-Text GLabel 2650 6400 2    60   Input ~ 0
-CH16
-Text GLabel 2150 6400 0    60   Input ~ 0
-CH17
-Text GLabel 1450 6400 2    60   Input ~ 0
-CH18
 Text GLabel 950  6400 0    60   Input ~ 0
+CH16
+Text GLabel 1450 6400 2    60   Input ~ 0
+CH17
+Text GLabel 2150 6400 0    60   Input ~ 0
+CH18
+Text GLabel 2650 6400 2    60   Input ~ 0
 CH19
-Text GLabel 2650 6500 2    60   Input ~ 0
-CH20
-Text GLabel 2150 6500 0    60   Input ~ 0
-CH21
-Text GLabel 1450 6500 2    60   Input ~ 0
-CH22
 Text GLabel 950  6500 0    60   Input ~ 0
+CH20
+Text GLabel 1450 6500 2    60   Input ~ 0
+CH21
+Text GLabel 2150 6500 0    60   Input ~ 0
+CH22
+Text GLabel 2650 6500 2    60   Input ~ 0
 CH23
-Text GLabel 2650 6600 2    60   Input ~ 0
-CH24
-Text GLabel 2150 6600 0    60   Input ~ 0
-CH25
-Text GLabel 1450 6600 2    60   Input ~ 0
-CH26
 Text GLabel 950  6600 0    60   Input ~ 0
+CH24
+Text GLabel 1450 6600 2    60   Input ~ 0
+CH25
+Text GLabel 2150 6600 0    60   Input ~ 0
+CH26
+Text GLabel 2650 6600 2    60   Input ~ 0
 CH27
-Text GLabel 2650 6700 2    60   Input ~ 0
-CH28
-Text GLabel 2150 6700 0    60   Input ~ 0
-CH29
-Text GLabel 1450 6700 2    60   Input ~ 0
-CH30
 Text GLabel 950  6700 0    60   Input ~ 0
+CH28
+Text GLabel 1450 6700 2    60   Input ~ 0
+CH29
+Text GLabel 2150 6700 0    60   Input ~ 0
+CH30
+Text GLabel 2650 6700 2    60   Input ~ 0
 CH31
-Text GLabel 2650 6800 2    60   Input ~ 0
-CH32
-Text GLabel 2150 6800 0    60   Input ~ 0
-CH33
-Text GLabel 1450 6800 2    60   Input ~ 0
-CH34
 Text GLabel 950  6800 0    60   Input ~ 0
+CH32
+Text GLabel 1450 6800 2    60   Input ~ 0
+CH33
+Text GLabel 2150 6800 0    60   Input ~ 0
+CH34
+Text GLabel 2650 6800 2    60   Input ~ 0
 CH35
-Text GLabel 2650 6900 2    60   Input ~ 0
-CH36
-Text GLabel 2150 6900 0    60   Input ~ 0
-CH37
-Text GLabel 1450 6900 2    60   Input ~ 0
-CH38
 Text GLabel 950  6900 0    60   Input ~ 0
+CH36
+Text GLabel 1450 6900 2    60   Input ~ 0
+CH37
+Text GLabel 2150 6900 0    60   Input ~ 0
+CH38
+Text GLabel 2650 6900 2    60   Input ~ 0
 CH39
-Text GLabel 2650 7000 2    60   Input ~ 0
-CH40
-Text GLabel 2150 7000 0    60   Input ~ 0
-CH41
-Text GLabel 1450 7000 2    60   Input ~ 0
-CH42
 Text GLabel 950  7000 0    60   Input ~ 0
+CH40
+Text GLabel 1450 7000 2    60   Input ~ 0
+CH41
+Text GLabel 2150 7000 0    60   Input ~ 0
+CH42
+Text GLabel 2650 7000 2    60   Input ~ 0
 CH43
-Text GLabel 2650 7100 2    60   Input ~ 0
-CH44
-Text GLabel 2150 7100 0    60   Input ~ 0
-CH45
-Text GLabel 1450 7100 2    60   Input ~ 0
-CH46
 Text GLabel 950  7100 0    60   Input ~ 0
+CH44
+Text GLabel 1450 7100 2    60   Input ~ 0
+CH45
+Text GLabel 2150 7100 0    60   Input ~ 0
+CH46
+Text GLabel 2650 7100 2    60   Input ~ 0
 CH47
-Text GLabel 2650 7200 2    60   Input ~ 0
-CH48
-Text GLabel 2150 7200 0    60   Input ~ 0
-CH49
-Text GLabel 1450 7200 2    60   Input ~ 0
-CH50
 Text GLabel 950  7200 0    60   Input ~ 0
+CH48
+Text GLabel 1450 7200 2    60   Input ~ 0
+CH49
+Text GLabel 2150 7200 0    60   Input ~ 0
+CH50
+Text GLabel 2650 7200 2    60   Input ~ 0
 CH51
-Text GLabel 2650 7300 2    60   Input ~ 0
-CH52
-Text GLabel 2150 7300 0    60   Input ~ 0
-CH53
-Text GLabel 1450 7300 2    60   Input ~ 0
-CH54
 Text GLabel 950  7300 0    60   Input ~ 0
+CH52
+Text GLabel 1450 7300 2    60   Input ~ 0
+CH53
+Text GLabel 2150 7300 0    60   Input ~ 0
+CH54
+Text GLabel 2650 7300 2    60   Input ~ 0
 CH55
-Text GLabel 2650 7400 2    60   Input ~ 0
-CH56
-Text GLabel 2150 7400 0    60   Input ~ 0
-CH57
-Text GLabel 1450 7400 2    60   Input ~ 0
-CH58
 Text GLabel 950  7400 0    60   Input ~ 0
+CH56
+Text GLabel 1450 7400 2    60   Input ~ 0
+CH57
+Text GLabel 2150 7400 0    60   Input ~ 0
+CH58
+Text GLabel 2650 7400 2    60   Input ~ 0
 CH59
 Text GLabel 3700 6000 0    60   Input ~ 0
 CH60
@@ -625,13 +625,13 @@ Text GLabel 1450 7500 2    60   Input ~ 0
 CH-X2
 Text GLabel 950  7500 0    60   Input ~ 0
 CH-X3
-Text GLabel 7750 6200 0    60   Input ~ 0
-CH-FB
 Text GLabel 7750 6100 0    60   Input ~ 0
-CH-X1
+CH-FB
 Text GLabel 7750 6000 0    60   Input ~ 0
-CH-X2
+CH-X1
 Text GLabel 7750 5900 0    60   Input ~ 0
+CH-X2
+Text GLabel 7750 5800 0    60   Input ~ 0
 CH-X3
 Text GLabel 3700 7500 0    60   Input ~ 0
 CH-X3
@@ -641,4 +641,16 @@ Text GLabel 5000 7500 0    60   Input ~ 0
 CH-X1
 Text GLabel 5500 7500 2    60   Input ~ 0
 CH-FB
+Text GLabel 8550 5800 2    60   Input ~ 0
+GND
+Text GLabel 8550 6200 2    60   Input ~ 0
++12V
+Text GLabel 8550 6000 2    60   Input ~ 0
+COM2
+Text GLabel 8550 6100 2    60   Input ~ 0
++3.3V
+Text GLabel 7750 6200 0    60   Input ~ 0
+HVGND
+Text GLabel 8550 5900 2    60   Input ~ 0
+COM1
 $EndSCHEMATC
