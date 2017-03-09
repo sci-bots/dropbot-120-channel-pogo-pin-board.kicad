@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:120-channel pogo pin board-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -125,7 +126,7 @@ CH38
 Text GLabel 7650 2900 2    60   Input ~ 0
 CH39
 $Comp
-L TFM-120-02-X-DH J4
+L TFM-120-02-X-DH-RESCUE-120-channel_pogo_pin_board J4
 U 1 1 58B38170
 P 6750 1000
 F 0 "J4" H 6950 1130 45  0000 L BNN
@@ -136,7 +137,7 @@ F 3 "" H 6750 1000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L TFM-120-02-X-DH J6
+L TFM-120-02-X-DH-RESCUE-120-channel_pogo_pin_board J6
 U 1 1 58B385FB
 P 8350 1000
 F 0 "J6" H 8550 1130 45  0000 L BNN
@@ -147,7 +148,7 @@ F 3 "" H 8350 1000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L TFM-125-02-X-DH J5
+L TFM-125-02-X-DH-RESCUE-120-channel_pogo_pin_board J5
 U 1 1 58B38E3E
 P 7750 3800
 F 0 "J5" H 7950 3950 45  0000 L BNN
@@ -653,4 +654,143 @@ Text GLabel 7750 6100 0    60   Input ~ 0
 HV_OE
 Text GLabel 8550 5900 2    60   Input ~ 0
 SDA
+Text GLabel 1450 1250 2    60   Input ~ 0
+CHASIS_GND
+$Comp
+L CONN_01X01 P5
+U 1 1 58C0AD0D
+P 1000 1250
+F 0 "P5" H 1150 1250 50  0000 C CNN
+F 1 "CONN_01X01" V 800 900 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_3.2mm_M3_Pad" H 1000 1250 50  0001 C CNN
+F 3 "" H 1000 1250 50  0000 C CNN
+	1    1000 1250
+	-1   0    0    1   
+$EndComp
+$Comp
+L CONN_01X01 P6
+U 1 1 58C0AD4A
+P 2350 1150
+F 0 "P6" H 2500 1150 50  0000 C CNN
+F 1 "CONN_01X01" V 2450 1150 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_3.2mm_M3_Pad" H 2350 1150 50  0001 C CNN
+F 3 "" H 2350 1150 50  0000 C CNN
+	1    2350 1150
+	-1   0    0    1   
+$EndComp
+$Comp
+L CONN_01X01 P7
+U 1 1 58C0AD75
+P 1000 1150
+F 0 "P7" H 1150 1150 50  0000 C CNN
+F 1 "CONN_01X01" V 1100 1150 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_3.2mm_M3_Pad" H 1000 1150 50  0001 C CNN
+F 3 "" H 1000 1150 50  0000 C CNN
+	1    1000 1150
+	-1   0    0    1   
+$EndComp
+$Comp
+L CONN_01X01 P8
+U 1 1 58C0ADA3
+P 2350 1250
+F 0 "P8" H 2500 1250 50  0000 C CNN
+F 1 "CONN_01X01" V 2450 1250 50  0001 C CNN
+F 2 "Mounting_Holes:MountingHole_3.2mm_M3_Pad" H 2350 1250 50  0001 C CNN
+F 3 "" H 2350 1250 50  0000 C CNN
+	1    2350 1250
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	1200 1250 1450 1250
+Wire Wire Line
+	2650 1250 2550 1250
+Wire Wire Line
+	2650 1050 2650 1250
+Connection ~ 1300 1250
+Wire Wire Line
+	2550 1150 2800 1150
+Connection ~ 2650 1150
+Wire Wire Line
+	1200 1150 1300 1150
+Connection ~ 1300 1150
+$Comp
+L C C1
+U 1 1 58C0BBB2
+P 1200 800
+F 0 "C1" H 1225 900 50  0000 L CNN
+F 1 "C" H 1225 700 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0805" H 1238 650 50  0001 C CNN
+F 3 "" H 1200 800 50  0000 C CNN
+	1    1200 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L FERRITE FB1
+U 1 1 58C0D2EB
+P 1400 800
+F 0 "FB1" H 1275 975 50  0000 L CNN
+F 1 "FERRITE" H 1275 900 50  0000 L CNN
+F 2 "Resistors_SMD:R_0805" H 1400 700 60  0001 C CNN
+F 3 "" H 1400 700 60  0000 C CNN
+	1    1400 800 
+	0    1    1    0   
+$EndComp
+Text GLabel 1700 600  2    60   Input ~ 0
+GND
+Wire Wire Line
+	1200 600  1700 600 
+Wire Wire Line
+	1200 600  1200 650 
+Wire Wire Line
+	1400 650  1400 600 
+Connection ~ 1400 600 
+Wire Wire Line
+	1400 1050 1400 950 
+Wire Wire Line
+	1200 1050 1400 1050
+Wire Wire Line
+	1200 1050 1200 950 
+Connection ~ 1300 1050
+Text GLabel 2800 1150 2    60   Input ~ 0
+CHASIS_GND
+$Comp
+L C C2
+U 1 1 58C0D9E0
+P 2550 800
+F 0 "C2" H 2575 900 50  0000 L CNN
+F 1 "C" H 2575 700 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0805" H 2588 650 50  0001 C CNN
+F 3 "" H 2550 800 50  0000 C CNN
+	1    2550 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L FERRITE FB2
+U 1 1 58C0D9E6
+P 2750 800
+F 0 "FB2" H 2625 975 50  0000 L CNN
+F 1 "FERRITE" H 2625 900 50  0000 L CNN
+F 2 "Resistors_SMD:R_0805" H 2750 700 60  0001 C CNN
+F 3 "" H 2750 700 60  0000 C CNN
+	1    2750 800 
+	0    1    1    0   
+$EndComp
+Text GLabel 3050 600  2    60   Input ~ 0
+GND
+Wire Wire Line
+	2550 600  3050 600 
+Wire Wire Line
+	2550 600  2550 650 
+Wire Wire Line
+	2750 650  2750 600 
+Connection ~ 2750 600 
+Wire Wire Line
+	2750 1050 2750 950 
+Wire Wire Line
+	2550 1050 2750 1050
+Wire Wire Line
+	2550 1050 2550 950 
+Connection ~ 2650 1050
+Wire Wire Line
+	1300 1050 1300 1250
 $EndSCHEMATC
