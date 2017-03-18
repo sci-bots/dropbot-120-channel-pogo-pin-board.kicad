@@ -616,8 +616,6 @@ Text GLabel 5000 5900 0    60   Input ~ 0
 GND
 Text GLabel 4200 5900 2    60   Input ~ 0
 HV_OE
-Text GLabel 3700 5900 0    60   Input ~ 0
-CH-X1
 Text GLabel 2700 7500 2    60   Input ~ 0
 CUR_SENSE
 Text GLabel 2200 7500 0    60   Input ~ 0
@@ -634,8 +632,6 @@ Text GLabel 8550 6200 2    60   Input ~ 0
 CH-X2
 Text GLabel 8550 6000 2    60   Input ~ 0
 GND
-Text GLabel 3700 7500 0    60   Input ~ 0
-CH-X1
 Text GLabel 4200 7500 2    60   Input ~ 0
 HV_OE
 Text GLabel 5000 7500 0    60   Input ~ 0
@@ -793,4 +789,8 @@ Wire Wire Line
 Connection ~ 2650 1050
 Wire Wire Line
 	1300 1050 1300 1250
+Text GLabel 3700 5900 0    60   Input ~ 0
+CH-X2
+Text GLabel 3700 7500 0    60   Input ~ 0
+CH-X2
 $EndSCHEMATC
