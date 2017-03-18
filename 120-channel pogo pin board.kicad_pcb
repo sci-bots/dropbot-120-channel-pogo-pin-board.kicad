@@ -5,7 +5,7 @@
     (no_connects 2)
     (area -54.330601 -25.190501 129.540001 48.455101)
     (thickness 1.6002)
-    (drawings 13)
+    (drawings 14)
     (tracks 1402)
     (zones 0)
     (modules 15)
@@ -1412,6 +1412,9 @@
     )
   )
 
+  (gr_text "Center-to-center distance between left and right pogo pins:  63.4 mm\n(confirmed using digital caliper)" (at 0 -33.02) (layer Dwgs.User)
+    (effects (font (size 2.032 1.524) (thickness 0.3048)))
+  )
   (gr_line (start -31.7 -29.718) (end 31.7 -29.718) (layer Dwgs.User) (width 0.381))
   (gr_line (start 54.1401 -25) (end 24.35 -25) (layer Edge.Cuts) (width 0.381))
   (gr_line (start -54.1401 -25) (end -24.35 -25) (layer Edge.Cuts) (width 0.381))
