@@ -2,14 +2,14 @@
 <export version="D">
   <design>
     <source>C:/Users/ryan/Documents/dev/kicad/dropbot-v3/120-channel-pogo-pin-board/120-channel pogo pin board.sch</source>
-    <date>2017-03-20 10:11:43 AM</date>
+    <date>2017-03-20 12:05:45 PM</date>
     <tool>Eeschema 4.0.1-stable</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>120-channel pogo pin board</title>
         <company>Sci-Bots Inc.</company>
-        <rev>3.0</rev>
-        <date>2017-03-09</date>
+        <rev>3.1</rev>
+        <date>2017-03-20</date>
         <source>120-channel pogo pin board.sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -128,30 +128,30 @@
       <tstamp>58C0D9E6</tstamp>
     </comp>
     <comp ref="J4">
-      <value>TFM-120-02-X-DH</value>
-      <footprint>WheelerLab:TFM-120-02-X-DH</footprint>
+      <value>SFM-120-02-L-D-A</value>
+      <footprint>WheelerLab:SFM-120-02-XXX-D-A</footprint>
       <fields>
-        <field name="Mfg_Part_No">TFM-120-02-X-DH</field>
+        <field name="Mfg_Part_No">SFM-120-02-L-D-A</field>
       </fields>
       <libsource lib="conn" part="CONN_02X20"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>58C16354</tstamp>
     </comp>
     <comp ref="J6">
-      <value>TFM-120-02-X-DH</value>
-      <footprint>WheelerLab:TFM-120-02-X-DH</footprint>
+      <value>SFM-120-02-L-D-A</value>
+      <footprint>WheelerLab:SFM-120-02-XXX-D-A</footprint>
       <fields>
-        <field name="Mfg_Part_No">TFM-120-02-X-DH</field>
+        <field name="Mfg_Part_No">SFM-120-02-L-D-A</field>
       </fields>
       <libsource lib="conn" part="CONN_02X20"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>58C168F5</tstamp>
     </comp>
     <comp ref="J5">
-      <value>TFM-125-02-X-DH</value>
-      <footprint>WheelerLab:TFM-125-02-X-DH</footprint>
+      <value>SFM-125-02-L-D-A</value>
+      <footprint>WheelerLab:SFM-125-02-XXX-D-A</footprint>
       <fields>
-        <field name="Mfg_Part_No">TFM-125-02-X-DH</field>
+        <field name="Mfg_Part_No">SFM-125-02-L-D-A</field>
       </fields>
       <libsource lib="conn" part="CONN_02X25"/>
       <sheetpath names="/" tstamps="/"/>
@@ -163,7 +163,7 @@
       <fields>
         <field name="Mfg_Part_No">CAT24C02TDI-GT3A</field>
       </fields>
-      <libsource lib="120-channel pogo pin board-cache" part="CAT24C02TDI"/>
+      <libsource lib="wheelerlab" part="CAT24C02TDI"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>58C15955</tstamp>
     </comp>
@@ -197,7 +197,8 @@
         <pin num="2" name="~" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="120-channel pogo pin board-cache" part="CAT24C02TDI">
+    <libpart lib="wheelerlab" part="CAT24C02TDI">
+      <description>ON Semiconductor IC EEPROM 2KBIT 400KHZ TSOT23-5</description>
       <fields>
         <field name="Reference">U</field>
         <field name="Value">CAT24C02TDI</field>
@@ -422,17 +423,14 @@
     </libpart>
   </libparts>
   <libraries>
-    <library logical="conn">
-      <uri>C:\Program Files\KiCad\share\kicad\library\conn.lib</uri>
-    </library>
-    <library logical="120-channel pogo pin board-cache">
-      <uri>C:\Users\ryan\Documents\dev\kicad\dropbot-v3\120-channel-pogo-pin-board\120-channel pogo pin board-cache.lib</uri>
+    <library logical="device">
+      <uri>C:\Program Files\KiCad\share\kicad\library\device.lib</uri>
     </library>
     <library logical="wheelerlab">
       <uri>C:\Users\ryan\Documents\dev\kicad\dropbot-v3\120-channel-pogo-pin-board\library\wheelerlab.lib</uri>
     </library>
-    <library logical="device">
-      <uri>C:\Program Files\KiCad\share\kicad\library\device.lib</uri>
+    <library logical="conn">
+      <uri>C:\Program Files\KiCad\share\kicad\library\conn.lib</uri>
     </library>
   </libraries>
   <nets>
