@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>C:/Users/ryan/Documents/dev/kicad/dropbot-v3/120-channel-pogo-pin-board/120-channel pogo pin board.sch</source>
-    <date>2017-03-20 12:05:45 PM</date>
+    <date>2017-04-19 1:15:24 PM</date>
     <tool>Eeschema 4.0.1-stable</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -88,7 +88,7 @@
       <tstamp>58C0ADA3</tstamp>
     </comp>
     <comp ref="C1">
-      <value>C</value>
+      <value>0.1uF</value>
       <footprint>Capacitors_SMD:C_0805</footprint>
       <fields>
         <field name="Mfg_Part_No">CL21B104KBCNNNC</field>
@@ -108,7 +108,7 @@
       <tstamp>58C0D2EB</tstamp>
     </comp>
     <comp ref="C2">
-      <value>C</value>
+      <value>0.1uF</value>
       <footprint>Capacitors_SMD:C_0805</footprint>
       <fields>
         <field name="Mfg_Part_No">CL21B104KBCNNNC</field>
@@ -423,14 +423,14 @@
     </libpart>
   </libparts>
   <libraries>
-    <library logical="device">
-      <uri>C:\Program Files\KiCad\share\kicad\library\device.lib</uri>
+    <library logical="conn">
+      <uri>C:\Program Files\KiCad\share\kicad\library\conn.lib</uri>
     </library>
     <library logical="wheelerlab">
       <uri>C:\Users\ryan\Documents\dev\kicad\dropbot-v3\120-channel-pogo-pin-board\library\wheelerlab.lib</uri>
     </library>
-    <library logical="conn">
-      <uri>C:\Program Files\KiCad\share\kicad\library\conn.lib</uri>
+    <library logical="device">
+      <uri>C:\Program Files\KiCad\share\kicad\library\device.lib</uri>
     </library>
   </libraries>
   <nets>
