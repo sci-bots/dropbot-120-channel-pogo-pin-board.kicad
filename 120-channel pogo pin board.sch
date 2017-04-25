@@ -36,8 +36,8 @@ $Descr User 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "120-channel pogo pin board"
-Date "2017-03-20"
-Rev "3.1"
+Date "2017-04-25"
+Rev "v3.2"
 Comp "Sci-Bots Inc."
 Comment1 ""
 Comment2 ""
@@ -284,125 +284,125 @@ Text GLabel 8000 2900 0    60   Input ~ 0
 CH118
 Text GLabel 8500 2900 2    60   Input ~ 0
 CH119
-Text GLabel 1050 4800 0    60   Input ~ 0
-CH0
-Text GLabel 1550 4800 2    60   Input ~ 0
-CH1
-Text GLabel 2300 4800 0    60   Input ~ 0
-CH2
 Text GLabel 2800 4800 2    60   Input ~ 0
+CH0
+Text GLabel 2300 4800 0    60   Input ~ 0
+CH1
+Text GLabel 1550 4800 2    60   Input ~ 0
+CH2
+Text GLabel 1050 4800 0    60   Input ~ 0
 CH3
-Text GLabel 1050 4900 0    60   Input ~ 0
-CH4
-Text GLabel 1550 4900 2    60   Input ~ 0
-CH5
-Text GLabel 2300 4900 0    60   Input ~ 0
-CH6
 Text GLabel 2800 4900 2    60   Input ~ 0
+CH4
+Text GLabel 2300 4900 0    60   Input ~ 0
+CH5
+Text GLabel 1550 4900 2    60   Input ~ 0
+CH6
+Text GLabel 1050 4900 0    60   Input ~ 0
 CH7
-Text GLabel 1050 5000 0    60   Input ~ 0
-CH8
-Text GLabel 1550 5000 2    60   Input ~ 0
-CH9
-Text GLabel 2300 5000 0    60   Input ~ 0
-CH10
 Text GLabel 2800 5000 2    60   Input ~ 0
+CH8
+Text GLabel 2300 5000 0    60   Input ~ 0
+CH9
+Text GLabel 1550 5000 2    60   Input ~ 0
+CH10
+Text GLabel 1050 5000 0    60   Input ~ 0
 CH11
-Text GLabel 1050 5100 0    60   Input ~ 0
-CH12
-Text GLabel 1550 5100 2    60   Input ~ 0
-CH13
-Text GLabel 2300 5100 0    60   Input ~ 0
-CH14
 Text GLabel 2800 5100 2    60   Input ~ 0
+CH12
+Text GLabel 2300 5100 0    60   Input ~ 0
+CH13
+Text GLabel 1550 5100 2    60   Input ~ 0
+CH14
+Text GLabel 1050 5100 0    60   Input ~ 0
 CH15
-Text GLabel 1050 5200 0    60   Input ~ 0
-CH16
-Text GLabel 1550 5200 2    60   Input ~ 0
-CH17
-Text GLabel 2300 5200 0    60   Input ~ 0
-CH18
 Text GLabel 2800 5200 2    60   Input ~ 0
+CH16
+Text GLabel 2300 5200 0    60   Input ~ 0
+CH17
+Text GLabel 1550 5200 2    60   Input ~ 0
+CH18
+Text GLabel 1050 5200 0    60   Input ~ 0
 CH19
-Text GLabel 1050 5300 0    60   Input ~ 0
-CH20
-Text GLabel 1550 5300 2    60   Input ~ 0
-CH21
-Text GLabel 2300 5300 0    60   Input ~ 0
-CH22
 Text GLabel 2800 5300 2    60   Input ~ 0
+CH20
+Text GLabel 2300 5300 0    60   Input ~ 0
+CH21
+Text GLabel 1550 5300 2    60   Input ~ 0
+CH22
+Text GLabel 1050 5300 0    60   Input ~ 0
 CH23
-Text GLabel 1050 5400 0    60   Input ~ 0
-CH24
-Text GLabel 1550 5400 2    60   Input ~ 0
-CH25
-Text GLabel 2300 5400 0    60   Input ~ 0
-CH26
 Text GLabel 2800 5400 2    60   Input ~ 0
+CH24
+Text GLabel 2300 5400 0    60   Input ~ 0
+CH25
+Text GLabel 1550 5400 2    60   Input ~ 0
+CH26
+Text GLabel 1050 5400 0    60   Input ~ 0
 CH27
-Text GLabel 1050 5500 0    60   Input ~ 0
-CH28
-Text GLabel 1550 5500 2    60   Input ~ 0
-CH29
-Text GLabel 2300 5500 0    60   Input ~ 0
-CH30
 Text GLabel 2800 5500 2    60   Input ~ 0
+CH28
+Text GLabel 2300 5500 0    60   Input ~ 0
+CH29
+Text GLabel 1550 5500 2    60   Input ~ 0
+CH30
+Text GLabel 1050 5500 0    60   Input ~ 0
 CH31
-Text GLabel 1050 5600 0    60   Input ~ 0
-CH32
-Text GLabel 1550 5600 2    60   Input ~ 0
-CH33
-Text GLabel 2300 5600 0    60   Input ~ 0
-CH34
 Text GLabel 2800 5600 2    60   Input ~ 0
+CH32
+Text GLabel 2300 5600 0    60   Input ~ 0
+CH33
+Text GLabel 1550 5600 2    60   Input ~ 0
+CH34
+Text GLabel 1050 5600 0    60   Input ~ 0
 CH35
-Text GLabel 1050 5700 0    60   Input ~ 0
-CH36
-Text GLabel 1550 5700 2    60   Input ~ 0
-CH37
-Text GLabel 2300 5700 0    60   Input ~ 0
-CH38
 Text GLabel 2800 5700 2    60   Input ~ 0
+CH36
+Text GLabel 2300 5700 0    60   Input ~ 0
+CH37
+Text GLabel 1550 5700 2    60   Input ~ 0
+CH38
+Text GLabel 1050 5700 0    60   Input ~ 0
 CH39
-Text GLabel 1050 5800 0    60   Input ~ 0
-CH40
-Text GLabel 1550 5800 2    60   Input ~ 0
-CH41
-Text GLabel 2300 5800 0    60   Input ~ 0
-CH42
 Text GLabel 2800 5800 2    60   Input ~ 0
+CH40
+Text GLabel 2300 5800 0    60   Input ~ 0
+CH41
+Text GLabel 1550 5800 2    60   Input ~ 0
+CH42
+Text GLabel 1050 5800 0    60   Input ~ 0
 CH43
-Text GLabel 1050 5900 0    60   Input ~ 0
-CH44
-Text GLabel 1550 5900 2    60   Input ~ 0
-CH45
-Text GLabel 2300 5900 0    60   Input ~ 0
-CH46
 Text GLabel 2800 5900 2    60   Input ~ 0
+CH44
+Text GLabel 2300 5900 0    60   Input ~ 0
+CH45
+Text GLabel 1550 5900 2    60   Input ~ 0
+CH46
+Text GLabel 1050 5900 0    60   Input ~ 0
 CH47
-Text GLabel 1050 6000 0    60   Input ~ 0
-CH48
-Text GLabel 1550 6000 2    60   Input ~ 0
-CH49
-Text GLabel 2300 6000 0    60   Input ~ 0
-CH50
 Text GLabel 2800 6000 2    60   Input ~ 0
+CH48
+Text GLabel 2300 6000 0    60   Input ~ 0
+CH49
+Text GLabel 1550 6000 2    60   Input ~ 0
+CH50
+Text GLabel 1050 6000 0    60   Input ~ 0
 CH51
-Text GLabel 1050 6100 0    60   Input ~ 0
-CH52
-Text GLabel 1550 6100 2    60   Input ~ 0
-CH53
-Text GLabel 2300 6100 0    60   Input ~ 0
-CH54
 Text GLabel 2800 6100 2    60   Input ~ 0
+CH52
+Text GLabel 2300 6100 0    60   Input ~ 0
+CH53
+Text GLabel 1550 6100 2    60   Input ~ 0
+CH54
+Text GLabel 1050 6100 0    60   Input ~ 0
 CH55
-Text GLabel 1050 6200 0    60   Input ~ 0
-CH56
-Text GLabel 1550 6200 2    60   Input ~ 0
-CH57
-Text GLabel 2300 6200 0    60   Input ~ 0
-CH58
 Text GLabel 2800 6200 2    60   Input ~ 0
+CH56
+Text GLabel 2300 6200 0    60   Input ~ 0
+CH57
+Text GLabel 1550 6200 2    60   Input ~ 0
+CH58
+Text GLabel 1050 6200 0    60   Input ~ 0
 CH59
 Text GLabel 3800 4800 0    60   Input ~ 0
 CH60
