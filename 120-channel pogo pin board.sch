@@ -37,7 +37,7 @@ encoding utf-8
 Sheet 1 1
 Title "120-channel pogo pin board"
 Date "2017-04-25"
-Rev "v3.2"
+Rev "v3.3"
 Comp "Sci-Bots Inc."
 Comment1 ""
 Comment2 ""
