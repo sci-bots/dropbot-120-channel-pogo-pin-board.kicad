@@ -1,10 +1,7 @@
 Reference,Value,Footprint,Count,Datasheet,Mfg_Part_No
-P2,CONN_02X17,WheelerLab:SMD_Pin_Header_Straight_2x17_Pitch2.54mm,1,, 813-22-034-30-000101
-"P1, P3, P4",CONN_02X17,WheelerLab:SMD_Pin_Header_Straight_2x17_Pitch2.54mm,3,,813-22-034-30-000101
-"P5, P6, P7, P8",CONN_01X01,Mounting_Holes:MountingHole_3.2mm_M3_Pad,4,,
+"P2, P1, P3, P4",CONN_02X17,WheelerLab:SMD_Pin_Header_Straight_2x17_Pitch2.54mm,4,,813-22-034-30-000101
 "C1, C2",0.1uF,Capacitors_SMD:C_0805,2,,CL21B104KBCNNNC
 "FB1, FB2",FERRITE,Resistors_SMD:R_0805,2,,742792040
 "J4, J6",SFM-120-02-L-D-A,WheelerLab:SFM-120-02-XXX-D-A,2,,SFM-120-02-L-D-A
 J5,SFM-125-02-L-D-A,WheelerLab:SFM-125-02-XXX-D-A,1,,SFM-125-02-L-D-A
 U1,CAT24C02TDI,TO_SOT_Packages_SMD:TSOT-23-5,1,,CAT24C02TDI-GT3A
-R1,10k,Resistors_SMD:R_0805,1,,RC0805FR-0710KL
