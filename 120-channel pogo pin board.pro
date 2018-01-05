@@ -1,4 +1,4 @@
-update=2017-03-20 8:48:34 AM
+update=2018-01-04 11:06:07 PM
 last_client=kicad
 [general]
 version=1
@@ -38,7 +38,7 @@ version=1
 NetIExt=net
 [eeschema]
 version=1
-LibDir=library
+LibDir=
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -69,5 +69,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=wheelerlab
-LibName31=library/wheelerlab
+LibName30=library/wheelerlab
