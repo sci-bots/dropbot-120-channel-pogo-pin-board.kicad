@@ -52,7 +52,7 @@
       (footprint Resistors_SMD:R_0805)
       (fields
         (field (name Mfg_Part_No) 742792040))
-      (libsource (lib wheelerlab) (part FERRITE))
+      (libsource (lib sci-bots) (part FERRITE))
       (sheetpath (names /) (tstamps /))
       (tstamp 58C0D2EB))
     (comp (ref C2)
@@ -68,7 +68,7 @@
       (footprint Resistors_SMD:R_0805)
       (fields
         (field (name Mfg_Part_No) 742792040))
-      (libsource (lib wheelerlab) (part FERRITE))
+      (libsource (lib sci-bots) (part FERRITE))
       (sheetpath (names /) (tstamps /))
       (tstamp 58C0D9E6))
     (comp (ref U1)
@@ -76,7 +76,7 @@
       (footprint TO_SOT_Packages_SMD:TSOT-23-5)
       (fields
         (field (name Mfg_Part_No) CAT24C02TDI-GT3A))
-      (libsource (lib wheelerlab) (part CAT24C02TDI))
+      (libsource (lib sci-bots) (part CAT24C02TDI))
       (sheetpath (names /) (tstamps /))
       (tstamp 58C15955))
     (comp (ref R1)
@@ -154,7 +154,7 @@
       (pins
         (pin (num 1) (name ~) (type passive))
         (pin (num 2) (name ~) (type passive))))
-    (libpart (lib wheelerlab) (part CAT24C02TDI)
+    (libpart (lib sci-bots) (part CAT24C02TDI)
       (description "ON Semiconductor IC EEPROM 2KBIT 400KHZ TSOT23-5")
       (fields
         (field (name Reference) U)
@@ -346,7 +346,7 @@
         (pin (num 48) (name Pin_48) (type passive))
         (pin (num 49) (name Pin_49) (type passive))
         (pin (num 50) (name Pin_50) (type passive))))
-    (libpart (lib wheelerlab) (part FERRITE)
+    (libpart (lib sci-bots) (part FERRITE)
       (fields
         (field (name Reference) FB)
         (field (name Value) FERRITE))
@@ -368,8 +368,8 @@
       (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\device.lib"))
     (library (logical conn)
       (uri "C:\\Program Files\\KiCad\\share\\kicad\\library\\conn.lib"))
-    (library (logical wheelerlab)
-      (uri C:\Users\Wheeler\Documents\dev\kicad\120-channel-pogo-pin-board\library\wheelerlab.lib)))
+    (library (logical sci-bots)
+      (uri C:\Users\Wheeler\Documents\dev\kicad\120-channel-pogo-pin-board\library\sci-bots.lib)))
   (nets
     (net (code 1) (name CH-X2)
       (node (ref P3) (pin 1))
