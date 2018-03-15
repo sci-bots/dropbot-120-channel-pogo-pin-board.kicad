@@ -36,8 +36,8 @@ $Descr User 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "120-channel pogo pin board"
-Date "2017-04-25"
-Rev "v3.3"
+Date "2018-03-14"
+Rev "v3.4"
 Comp "Sci-Bots Inc."
 Comment1 ""
 Comment2 ""
@@ -769,9 +769,9 @@ U 1 1 5A4F0D39
 P 1250 5500
 F 0 "P2" H 1300 6400 50  0000 C CNN
 F 1 "Conn_02x17_Odd_Even" H 1300 4600 50  0000 C CNN
-F 2 "Sci-Bots:SMD_Pin_Header_Straight_2x17_Pitch2.54mm" H 1250 5500 50  0001 C CNN
+F 2 "Sci-Bots:Pogo_Pin_Header_Straight_2x17_Pitch2.54mm" H 1250 5500 50  0001 C CNN
 F 3 "" H 1250 5500 50  0001 C CNN
-F 4 "813-22-034-30-000101" H 1250 5500 60  0001 C CNN "Mfg_Part_No"
+F 4 "823-22-034-10-000101" H 1250 5500 60  0001 C CNN "Mfg_Part_No"
 	1    1250 5500
 	1    0    0    -1  
 $EndComp
@@ -781,9 +781,9 @@ U 1 1 5A4F0F21
 P 2500 5500
 F 0 "P1" H 2550 6400 50  0000 C CNN
 F 1 "Conn_02x17_Odd_Even" H 2550 4600 50  0000 C CNN
-F 2 "Sci-Bots:SMD_Pin_Header_Straight_2x17_Pitch2.54mm" H 2500 5500 50  0001 C CNN
+F 2 "Sci-Bots:Pogo_Pin_Header_Straight_2x17_Pitch2.54mm" H 2500 5500 50  0001 C CNN
 F 3 "" H 2500 5500 50  0001 C CNN
-F 4 "813-22-034-30-000101" H 2500 5500 60  0001 C CNN "Mfg_Part_No"
+F 4 "823-22-034-10-000101" H 2500 5500 60  0001 C CNN "Mfg_Part_No"
 	1    2500 5500
 	1    0    0    -1  
 $EndComp
@@ -793,9 +793,9 @@ U 1 1 5A4F1091
 P 4000 5500
 F 0 "P3" H 4050 6400 50  0000 C CNN
 F 1 "Conn_02x17_Odd_Even" H 4050 4600 50  0000 C CNN
-F 2 "Sci-Bots:SMD_Pin_Header_Straight_2x17_Pitch2.54mm" H 4000 5500 50  0001 C CNN
+F 2 "Sci-Bots:Pogo_Pin_Header_Straight_2x17_Pitch2.54mm" H 4000 5500 50  0001 C CNN
 F 3 "" H 4000 5500 50  0001 C CNN
-F 4 "813-22-034-30-000101" H 4000 5500 60  0001 C CNN "Mfg_Part_No"
+F 4 "823-22-034-10-000101" H 4000 5500 60  0001 C CNN "Mfg_Part_No"
 	1    4000 5500
 	1    0    0    -1  
 $EndComp
@@ -805,9 +805,9 @@ U 1 1 5A4F112A
 P 5300 5500
 F 0 "P4" H 5350 6400 50  0000 C CNN
 F 1 "Conn_02x17_Odd_Even" H 5350 4600 50  0000 C CNN
-F 2 "Sci-Bots:SMD_Pin_Header_Straight_2x17_Pitch2.54mm" H 5300 5500 50  0001 C CNN
+F 2 "Sci-Bots:Pogo_Pin_Header_Straight_2x17_Pitch2.54mm" H 5300 5500 50  0001 C CNN
 F 3 "" H 5300 5500 50  0001 C CNN
-F 4 "813-22-034-30-000101" H 5300 5500 60  0001 C CNN "Mfg_Part_No"
+F 4 "823-22-034-10-000101" H 5300 5500 60  0001 C CNN "Mfg_Part_No"
 	1    5300 5500
 	1    0    0    -1  
 $EndComp

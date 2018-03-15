@@ -3,7 +3,7 @@ Reference,Value,Footprint,Count,Datasheet,FootprintLib,Mfg_Part_No
 "FB1,FB2",FERRITE,R_0805,2,,Resistors_SMD,742792040
 "J4,J6",SFM-120-02-L-D-A,SFM-120-02-XXX-D-A,2,,WheelerLab,SFM-120-02-L-D-A
 J5,SFM-125-02-L-D-A,SFM-125-02-XXX-D-A,1,,WheelerLab,SFM-125-02-L-D-A
-"P1,P2,P3,P4",Conn_02x17_Odd_Even,SMD_Pin_Header_Straight_2x17_Pitch2.54mm,4,,Sci-Bots,813-22-034-30-000101
+"P1,P2,P3,P4",Conn_02x17_Odd_Even,Pogo_Pin_Header_Straight_2x17_Pitch2.54mm,4,,Sci-Bots,823-22-034-10-000101
 "P5,P6,P7,P8",CONN_01X01,MountingHole_3.2mm_M3_Pad,4,,Mounting_Holes,
 R1,10k,R_0805,1,,Resistors_SMD,RC0805FR-0710KL
 U1,CAT24C02TDI,TSOT-23-5,1,,TO_SOT_Packages_SMD,CAT24C02TDI-GT3A
