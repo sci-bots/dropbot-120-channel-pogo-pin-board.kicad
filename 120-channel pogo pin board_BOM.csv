@@ -1,8 +1,8 @@
 Reference,Value,Footprint,Count,Datasheet,FootprintLib,Mfg_Part_No
 "C1,C2",0.1uF,C_0805,2,,Capacitors_SMD,CL21B104KBCNNNC
 "FB1,FB2",FERRITE,R_0805,2,,Resistors_SMD,742792040
-"J4,J6",SFM-120-02-L-D-A,SFM-120-02-XXX-D-A,2,,WheelerLab,SFM-120-02-L-D-A
-J5,SFM-125-02-L-D-A,SFM-125-02-XXX-D-A,1,,WheelerLab,SFM-125-02-L-D-A
+"J4,J6",SFM-120-02-L-D-A,SFM-120-02-XXX-D-A,2,,Sci-Bots,SFM-120-02-L-D-A
+J5,SFM-125-02-L-D-A,SFM-125-02-XXX-D-A,1,,Sci-Bots,SFM-125-02-L-D-A
 "P1,P2,P3,P4",Conn_02x17_Odd_Even,Pogo_Pin_Header_Straight_2x17_Pitch2.54mm,4,,Sci-Bots,823-22-034-10-000101
 "P5,P6,P7,P8",CONN_01X01,MountingHole_3.2mm_M3_Pad,4,,Mounting_Holes,
 R1,10k,R_0805,1,,Resistors_SMD,RC0805FR-0710KL

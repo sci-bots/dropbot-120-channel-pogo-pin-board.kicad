@@ -478,7 +478,7 @@
     )
   )
 
-  (module WheelerLab:SFM-120-02-XXX-D-A (layer Front) (tedit 58CFFEBE) (tstamp 58D10772)
+  (module Sci-Bots:SFM-120-02-XXX-D-A (layer Front) (tedit 58CFFEBE) (tstamp 58D10772)
     (at 63.2716 143.48)
     (descr "0.05\"X0.05\" SOCKET STRIP DOUBLE ROW ASSEMBLY.")
     (tags "0.05\"X0.05\" SOCKET STRIP DOUBLE ROW ASSEMBLY.")
@@ -907,7 +907,7 @@
     )
   )
 
-  (module WheelerLab:SCI-BOTS-LOGO (layer Front) (tedit 0) (tstamp 58D012AE)
+  (module Sci-Bots:SCI-BOTS-LOGO (layer Front) (tedit 0) (tstamp 58D012AE)
     (at 89 133)
     (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
       (effects (font (thickness 0.3)))
@@ -1152,7 +1152,7 @@
       (xy 10.0584 -1.9304) (xy 10.100851 -1.91244)) (layer F.SilkS) (width 0.01))
   )
 
-  (module WheelerLab:SFM-125-02-XXX-D-A (layer Front) (tedit 58FF61C9) (tstamp 58D107C5)
+  (module Sci-Bots:SFM-125-02-XXX-D-A (layer Front) (tedit 58FF61C9) (tstamp 58D107C5)
     (at 100 143.48)
     (descr "0.05\"X0.05\" SOCKET STRIP DOUBLE ROW ASSEMBLY.")
     (tags "0.05\"X0.05\" SOCKET STRIP DOUBLE ROW ASSEMBLY.")
@@ -1310,7 +1310,7 @@
     (pad "" thru_hole circle (at 16.8275 0) (size 1.75 1.75) (drill 1.27) (layers *.Cu *.Mask F.SilkS))
   )
 
-  (module WheelerLab:SFM-120-02-XXX-D-A (layer Front) (tedit 58FF9662) (tstamp 58D10822)
+  (module Sci-Bots:SFM-120-02-XXX-D-A (layer Front) (tedit 58FF9662) (tstamp 58D10822)
     (at 136.7284 143.48)
     (descr "0.05\"X0.05\" SOCKET STRIP DOUBLE ROW ASSEMBLY.")
     (tags "0.05\"X0.05\" SOCKET STRIP DOUBLE ROW ASSEMBLY.")
