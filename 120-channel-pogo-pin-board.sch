@@ -1,37 +1,5 @@
-EESchema Schematic File Version 2
-LIBS:120-channel pogo pin board-rescue
-LIBS:power
-LIBS:device
-LIBS:transistors
-LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
-LIBS:sci-bots
-LIBS:120-channel pogo pin board-cache
-EELAYER 25 0
+EESchema Schematic File Version 4
+EELAYER 30 0
 EELAYER END
 $Descr User 11000 8500
 encoding utf-8
@@ -624,20 +592,20 @@ F 3 "" H 2100 1550 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 Wire Wire Line
-	950  1550 1200 1550
+	950  1550 1050 1550
 Wire Wire Line
 	2400 1550 2300 1550
 Wire Wire Line
-	2400 1350 2400 1550
+	2400 1350 2400 1450
 Connection ~ 1050 1550
 Wire Wire Line
-	2300 1450 2550 1450
+	2300 1450 2400 1450
 Connection ~ 2400 1450
 Wire Wire Line
 	950  1450 1050 1450
 Connection ~ 1050 1450
 $Comp
-L C C1
+L Device:C C1
 U 1 1 58C0BBB2
 P 950 1100
 F 0 "C1" H 975 1200 50  0000 L CNN
@@ -663,7 +631,7 @@ $EndComp
 Text GLabel 1450 900  2    60   Input ~ 0
 GND
 Wire Wire Line
-	950  900  1450 900 
+	950  900  1150 900 
 Wire Wire Line
 	950  900  950  950 
 Wire Wire Line
@@ -672,14 +640,14 @@ Connection ~ 1150 900
 Wire Wire Line
 	1150 1350 1150 1250
 Wire Wire Line
-	950  1350 1150 1350
+	950  1350 1050 1350
 Wire Wire Line
 	950  1350 950  1250
 Connection ~ 1050 1350
 Text GLabel 2550 1450 2    60   Input ~ 0
 CHASIS_GND
 $Comp
-L C C2
+L Device:C C2
 U 1 1 58C0D9E0
 P 2300 1100
 F 0 "C2" H 2325 1200 50  0000 L CNN
@@ -705,7 +673,7 @@ $EndComp
 Text GLabel 2800 900  2    60   Input ~ 0
 GND
 Wire Wire Line
-	2300 900  2800 900 
+	2300 900  2500 900 
 Wire Wire Line
 	2300 900  2300 950 
 Wire Wire Line
@@ -714,12 +682,12 @@ Connection ~ 2500 900
 Wire Wire Line
 	2500 1350 2500 1250
 Wire Wire Line
-	2300 1350 2500 1350
+	2300 1350 2400 1350
 Wire Wire Line
 	2300 1350 2300 1250
 Connection ~ 2400 1350
 Wire Wire Line
-	1050 1350 1050 1550
+	1050 1350 1050 1450
 $Comp
 L CAT24C__TD_ U1
 U 1 1 58C15955
@@ -741,7 +709,7 @@ Text GLabel 6150 3800 2    60   Input ~ 0
 Text GLabel 5350 3900 0    60   Input ~ 0
 GND
 $Comp
-L R_Small R1
+L Device:R_Small R1
 U 1 1 58C170A6
 P 6050 3800
 F 0 "R1" V 6150 3750 50  0000 L CNN
@@ -848,4 +816,20 @@ F 4 "SFM-120-02-L-D-A" H 5600 1950 60  0001 C CNN "Mfg_Part_No"
 	1    5600 1950
 	-1   0    0    1   
 $EndComp
+Wire Wire Line
+	1050 1550 1200 1550
+Wire Wire Line
+	2400 1450 2400 1550
+Wire Wire Line
+	2400 1450 2550 1450
+Wire Wire Line
+	1050 1450 1050 1550
+Wire Wire Line
+	1150 900  1450 900 
+Wire Wire Line
+	1050 1350 1150 1350
+Wire Wire Line
+	2500 900  2800 900 
+Wire Wire Line
+	2400 1350 2500 1350
 $EndSCHEMATC

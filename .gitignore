@@ -1,7 +1,7 @@
 # Temporary files
 *.000
-*.bak
-*.bck
+*bak
+*bck
 *.kicad_pcb-bak
 *~
 _autosave-*
