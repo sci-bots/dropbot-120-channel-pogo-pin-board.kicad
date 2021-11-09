@@ -1,0 +1,15 @@
+### Module positions - created on Tue 09 Nov 2021 03:07:47  ###
+### Printed by KiBot
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref   Val                Package              PosX       PosY        Rot        Side
+C1      0.1uF              C_0805               141.0000   -81.0000    0.0000     top 
+C2      0.1uF              C_0805               59.0000    -81.0000    180.0000   top 
+FB1     FERRITE            R_0805               141.0000   -79.0000    0.0000     top 
+FB2     FERRITE            R_0805               59.0000    -79.0000    180.0000   top 
+J4      SFM-120-02-L-D-A   SFM-120-02-XXX-D-A   63.2716    -143.4800   0.0000     top 
+J5      SFM-125-02-L-D-A   SFM-125-02-XXX-D-A   100.0000   -143.4800   0.0000     top 
+J6      SFM-120-02-L-D-A   SFM-120-02-XXX-D-A   136.7284   -143.4800   0.0000     top 
+R1      10k                R_0805               118.3500   -137.3500   90.0000    top 
+U1      CAT24C02TDI        TSOT-23-5            121.4500   -137.3500   180.0000   top 
+## End
