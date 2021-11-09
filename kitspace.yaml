@@ -13,7 +13,7 @@ color: black
        # - purple
        # - yellow
 
-bom: manufacturing/default/120-channel pogo pin board-BOM.csv
+bom: manufacturing/default/120-channel-pogo-pin-board-BOM.csv
   # A path to your 1-click-bom in case it isn't `1-click-bom.tsv`. Supported extensions are:
   # - .tsv
   # - .csv
@@ -25,7 +25,7 @@ gerbers: manufacturing/default/gerbers # A path to your folder of gerbers in cas
 
 eda:
   type: kicad # or eagle
-  pcb: 120-channel pogo pin board.kicad_pcb # your/eagle.brd
+  pcb: 120-channel-pogo-pin-board.kicad_pcb # your/eagle.brd
 
 readme: README.md # A path to your README file in case it isn't in the repository root directory.
 

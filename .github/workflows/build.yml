@@ -12,7 +12,7 @@ jobs:
     name: Generate KiCad outputs
     runs-on: ubuntu-latest
     env:
-      PROJECT_NAME: 120-channel pogo pin board
+      PROJECT_NAME: 120-channel-pogo-pin-board
     steps:
     - uses: actions/checkout@v2
     - name: Set up Python 3.9
