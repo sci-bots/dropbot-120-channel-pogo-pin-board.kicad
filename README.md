@@ -1,3 +1,6 @@
+[![tests](https://github.com/sci-bots/dropbot-120-channel-pogo-pin-board.kicad/actions/workflows/build.yml/badge.svg)](https://github.com/sci-bots/dropbot-120-channel-pogo-pin-board.kicad/actions/workflows/build.yml)
+[![kitspace](https://img.shields.io/website?down_color=red&down_message=no&label=kitspace&up_color=sucess&up_message=ok&url=https%3A%2F%2Fkitspace.org%2Fboards%2Fgithub.com%2Fsci-bots%2Fdropbot-120-channel-pogo-pin-board.kicad)](https://kitspace.org/boards/github.com/sci-bots/dropbot-120-channel-pogo-pin-board.kicad)
+
 # DropBot v3 120-channel pogo-pin board
 
 The [DropBot v3][dropbot] pogo-pin board routes the high-voltage outputs from the switching boards to a digital microfluidic (DMF) chip via 120 spring-loaded pogo-pins.
