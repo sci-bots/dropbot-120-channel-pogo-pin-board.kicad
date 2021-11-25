@@ -22,3 +22,7 @@ _autosave-*
 *.xml
 
 .ipynb_checkpoints
+_autosave*
+*-erc.txt
+*-drc.txt
+kibot_errors.filter
